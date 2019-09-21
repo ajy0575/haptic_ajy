@@ -14,7 +14,7 @@ void draw() {    //repeat
 
   background(255);  //color of window
 
-  fill(0);
+  fill(0);   //color
 
   text("Hello Strings!",10,100);  //text ("   ",x,y)
 
