@@ -20,7 +20,7 @@ void draw() {
 
   //text("Hello Strings! " + str(frameCount),10,50);
 
-  String buf = String.format("%06d", frameCount);
+  String buf = String.format("%06d", frameCount);  //count
 
   text(buf, 10,50);
 
